@@ -1,0 +1,26 @@
+_repo: A-k-nyv-t-rt-nete--2.-r-sz---13-A-k-nyv-t-rt-neti-fejl-d-se_40506
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Steinhofer, Károly
+    alias: Steinhofer, Karoly
+    gutenberg_agent_id: '40659'
+    url: http://www.gutenberg.org/2009/agents/40659
+description: ''
+gutenberg_issued: '2012-08-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '40506'
+language: hu
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Publishers and publishing -- Hungary'
+- !lcc 'Z'
+- !lcsh 'Printing -- Hungary -- History'
+title: "A könyv története (2. rész)\r\nA könyv történeti fejlődése"
+url: http://www.gutenberg.org/ebooks/40506
